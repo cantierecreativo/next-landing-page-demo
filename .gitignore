@@ -34,3 +34,6 @@ yarn-error.log*
 .env.local
 
 graphql.config.yml
+
+# Local Netlify folder
+.netlify
